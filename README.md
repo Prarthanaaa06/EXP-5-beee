@@ -31,15 +31,20 @@ OBSERVATIONS:
 LINE REGULATION:
 <img width="939" height="541" alt="image" src="https://github.com/user-attachments/assets/7718924a-f811-45a3-a7d5-3bab1ff888f5" />
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e589699d-6067-445f-80ab-6eaaf0c7636d" />
+
 LOAD REGULATION
 <img width="1072" height="581" alt="image" src="https://github.com/user-attachments/assets/4b5f0c1b-7c6e-4d19-ba7d-2886e8d38fe6" />
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/85f425b8-b153-4628-8c10-279a73817386" />
 
 PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
-
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/ef6a0f02-3700-4223-85de-253a6df96a45" />
+
 RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
